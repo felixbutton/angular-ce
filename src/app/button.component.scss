@@ -1,0 +1,18 @@
+button {
+  padding: 1rem 0.5rem;
+  border: 2px solid lightseagreen;
+  background: rgb(48, 212, 204);
+  cursor: pointer;
+
+  &:hover {
+    border: 2px solid lightsalmon;
+    background: rgb(255, 178, 147);
+  }
+}
+
+.risk {
+    margin-top: 2rem;
+    display: flex;
+    padding: 1rem;
+    border: 1px solid red;
+}
